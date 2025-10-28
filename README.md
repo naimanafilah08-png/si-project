@@ -13,4 +13,4 @@ Orders Page
 ![Orders Page](public/screenshots/orders.png)
 
 Blog Client web
-![Blog Page](public/screenshots/blog.png)
+![Blog Page](public/screenshots/blogclient.png)
